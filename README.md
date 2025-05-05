@@ -1,7 +1,7 @@
 # E-commerce_website-in-java
 
 
-### E - COMMERCE WEB PROJECT IN SPRING BOOT
+**E - COMMERCE WEB PROJECT IN SPRING BOOT**
 
 ![Home Page](https://github.com/aniketsahu115/E-commerce-project-springBoot/blob/main/assetts/Home%20.png)
 ![Payment](https://github.com/aniketsahu115/E-commerce-project-springBoot/blob/main/assetts/Payment.png)
