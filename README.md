@@ -3,7 +3,9 @@
 
 ### E - COMMERCE WEB PROJECT IN SPRING BOOT
 
-
+![Home Page](https://github.com/aniketsahu115/E-commerce-project-springBoot/blob/main/assetts/Home%20.pngg)
+![Payment](https://github.com/aniketsahu115/E-commerce-project-springBoot/blob/main/assetts/Payment.png)
+![Admin Homepage](https://github.com/aniketsahu115/E-commerce-project-springBoot/blob/main/assetts/Admin%20homepage.png)
 
 <!-- [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
